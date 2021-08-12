@@ -22,6 +22,6 @@ popcat自動點擊
 
 
 
-## Images
+## 圖片
 
 ![Taiwan No.1.](./1.png "Taiwan YAYA")
